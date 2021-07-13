@@ -6,8 +6,8 @@ Quantum Survival is a very small and basic game submission I made for the GBA Ja
 Download it [here](https://larkskwared.itch.io/quantum-sruvival)!
 You will find two versions:
 
-The original submission.
-The final slightly improved version.
+*The original submission.
+*The final slightly improved version.
 
 In this game, you are some kind of space ship or whatever that thing looks like.
 You have to avoid being crashed by those giant meteors that jump through time and space.
