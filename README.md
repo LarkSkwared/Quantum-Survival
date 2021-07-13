@@ -15,9 +15,11 @@ You have to avoid being crashed by those giant meteors that jump through time an
 ## Gameplay
 
 ![](docs/original_gameplay.gif)
+
 Original submission gameplay
 
 ![](docs/final_gameplay.gif)
+
 Final version gameplay
 
 Full gameplay video [here](https://youtu.be/DJDpwwcTC-M).
