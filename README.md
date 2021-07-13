@@ -4,6 +4,7 @@
 
 Quantum Survival is a very small and basic game submission I made for the GBA Jam 2021.
 Download it [here](https://larkskwared.itch.io/quantum-sruvival)!
+
 You will find two versions:
 
 * The original submission.
