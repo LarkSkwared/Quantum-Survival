@@ -4,10 +4,11 @@
 
 Quantum Survival is a very small and basic game submission I made for the GBA Jam 2021.
 Download it [here](https://larkskwared.itch.io/quantum-sruvival)!
+
 You will find two versions:
 
-The original submission.
-The final slightly improved version.
+* The original submission.
+* The final slightly improved version.
 
 In this game, you are some kind of space ship or whatever that thing looks like.
 You have to avoid being crashed by those giant meteors that jump through time and space.
@@ -25,7 +26,7 @@ Final version gameplay
 Full gameplay video [here](https://youtu.be/DJDpwwcTC-M).
 ## How to play
 
-Use the cross pad to move arroud the screen and press B to make a quantum jump.
+Use the cross pad to move around the screen and press B to make a quantum jump.
 Try to last 25 seconds to "win".
 
 ## How to build

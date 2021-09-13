@@ -213,16 +213,31 @@ int level()
         if(key_hit(KEY_B))
             player=object_position(player,qran_range(0,240),qran_range(0,160));
 
-        // Sprite change
+        // Sprite and collision change
 
         if(key_hit(KEY_RIGHT))
+            {
             player.tid=0;
+            player_box=collision_box_set(player_box,32,16,0,8);
+            }
+
         if(key_hit(KEY_LEFT))
+            {
             player.tid=16;
+            player_box=collision_box_set(player_box,32,16,0,8);
+            }
+
         if(key_hit(KEY_UP))
+            {
             player.tid=32;
+            player_box=collision_box_set(player_box,16,32,8,0);
+            }
+
         if(key_hit(KEY_DOWN))
+            {
             player.tid=48;
+            player_box=collision_box_set(player_box,16,32,8,0);
+            }
 
         // === Obstacles screen bound ===
 
